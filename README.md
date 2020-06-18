@@ -11,3 +11,5 @@ Emiliano's steps
 * Added these steps
 * Learned about how to see the unstaged changes in vim with:
     `git diff`
+* Git diff is a tool to use when comparing differences before committing 
+                    **2nd COMMIT**
