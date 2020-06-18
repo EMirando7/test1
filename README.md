@@ -13,3 +13,7 @@ Emiliano's steps
     `git diff`
 * Git diff is a tool to use when comparing differences before committing 
                     **2nd COMMIT**
+
+**To unstage a unstaged file**
+* `git reset HEAD <file>`
+After typing this, I went ahead and staged lines 17-18, then used that command to unstage and this went back to green lines. Cool.
