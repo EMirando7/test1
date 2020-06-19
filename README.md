@@ -21,3 +21,5 @@ After typing this, I went ahead and staged lines 17-18, then used that command t
 
                     ** 1st commit in new branch, 2ndbra **
 Aside road rush huge sun early baby term felt question moving mass watch observe off that direction space bite stop blow prevent noise ear
+
+Only this should be visible in 2ndbra
