@@ -17,3 +17,7 @@ Emiliano's steps
 **To unstage a unstaged file**
 * `git reset HEAD <file>`
 After typing this, I went ahead and staged lines 17-18, then used that command to unstage and this went back to green lines. Cool.
+
+
+                    ** 1st commit in new branch, 2ndbra **
+Aside road rush huge sun early baby term felt question moving mass watch observe off that direction space bite stop blow prevent noise ear
